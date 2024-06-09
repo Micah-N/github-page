@@ -1,2 +1,2 @@
 # github-page
-My personal React app hosted on Github pages
+Converting my old Github user page to a newer one using React app and gh-pages
